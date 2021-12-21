@@ -1,0 +1,3 @@
+durum: şu an büyük bir bug var çözmeye çalışıyoruz yakında açılacaktır
+
+situation: there is a big bug right now we are trying to solve it will open soon
